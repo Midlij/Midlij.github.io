@@ -49,7 +49,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A try to provide a good and simple theme for Arabic Content
 
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https:alzamelfamily.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://midlij.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "/blog/assets/images/moon.svg" # the favicon for your site
 # default_img: "/assets/images/banners/6.webp" # The image your visitors see on your home page (الرئيسية)
 
